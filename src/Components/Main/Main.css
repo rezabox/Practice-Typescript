@@ -1,0 +1,16 @@
+body{
+  display: flex;
+  background-color: #282c34;
+  margin: 0;
+}
+section{
+  position: absolute;
+  width: 100%;
+  color: aliceblue;
+  font-size: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  letter-spacing: 5px;
+}

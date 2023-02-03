@@ -1,0 +1,14 @@
+.btns{
+  margin-top:80px;
+}
+button{
+  padding: 10px 20px;
+  margin-left: 30px;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.5s ease-in-out;
+}
+button:hover{
+  background-color: blueviolet;
+}
